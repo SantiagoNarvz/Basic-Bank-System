@@ -1,9 +1,9 @@
-Banco Inacapino - EVA Sumativa 2 de Introduccion a la Programacion
+SPANISH / ESPAÑOL
 
-Profesor(a): Maria Victoria Freites
+Banco Inacapino 
+
 Autor: Santiago Narvaez
 Fecha: martes 29 de abril de 2025
-
 
 Archivos:
 - banco.py --- #incluye todas las funciones y ejecucion del codigo.
@@ -27,6 +27,37 @@ Funciones incluidas en Banco Inacapino:
 Notas:
 Se ejecuto exhaustivamente el codigo para hacerlo a prueba de errores al momento de hacer la entrega.
 Gracias por revisar mi trabajo. :D
+
+--------------------------------------------------------------------------------------------------------------------------------------
+ENGLISH / INGLES
+
+Banco Inacapino
+
+Author: Santiago Narvaez
+Date: Tuesday, April 29, 2025
+
+Files:
+- banco.py --- #includes all functions and code execution.
+- main.py --- #main file and complete error-proof execution.
+
+Requirements:
+- Python 3 installed
+- Directory with the files in it
+
+Functions included in Banco Inacapino:
+- User registration with data validation
+- Initial deposit with benefits
+- Transfers to predefined contacts
+- Subsequent deposits that pay off a line of credit debt, if any
+- Credit card advance request (installments and interest)
+- Advance installment payments with balance and line control
+- Transaction history
+- Complete customer summary
+- Error protection and robust validations
+
+Notes:
+The code was thoroughly executed to ensure error-proofing upon submission.
+Thank you for reviewing my work. :D
 
 
 
